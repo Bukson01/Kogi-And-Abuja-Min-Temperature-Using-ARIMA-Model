@@ -17,8 +17,8 @@ Program Details
 Requirements *Language: Python 3.6 or above *Libraries: arima, pandas, numpy, time *platform: Jupyter notebook
 
 #Project Data Data - this is a folder that contains the dataset abj_T_min.xlsx and T_min.xlsx.xlsx 
-abj_T_min.xlsx - this file is the dataset containing the minimum temperatures on a monthly basis in Abuja for past 3 decades as provided by the NiMet. 
-T_min.xlsx - this file is the dataset containing the minimum temperatures on a monthly basis in Kogi for past 3 decades as provided by the NiMet.
+ABJ_MIN_TEMP.xlsx - this file is the dataset containing the minimum temperatures on a monthly basis in Abuja for past 3 decades as provided by the NiMet. 
+KG_MIN_TEMP.xlsx - this file is the dataset containing the minimum temperatures on a monthly basis in Kogi for past 3 decades as provided by the NiMet.
 
 Built with
 Python 3.7.2 - The language used to develop this. arima - One of the libraries used for this. pandas - One of the libraries used for this. numpy - One of the libraries used for this.
