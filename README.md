@@ -23,7 +23,7 @@ KG_MIN_TEMP.xlsx - this file is the dataset containing the minimum temperatures 
 Built with
 Python 3.7.2 - The language used to develop this. arima - One of the libraries used for this. pandas - One of the libraries used for this. numpy - One of the libraries used for this.
 
-Author @Bukason - Sole author for this program. Mentioned all the help received in 'Acknowledgements' section.
+Author @Bukson01 - Sole author for this program. Mentioned all the help received in 'Acknowledgements' section.
 
 Acknowledgement
 pandas docs - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project. NiMet - for providing us with the data used.
